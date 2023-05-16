@@ -8,6 +8,7 @@ Social is a Fullstack web application.
 To get started with project, follow these steps:
 
 1- Download Code:
+
 2- Install the dependencies:
 ```bash
 npm install
@@ -21,12 +22,12 @@ JWT_SECRET = 1334fc3c813052f95ea6ab7dc47328042889f808843edda61ef55b807dba5a8539b
 
 4- Run the server on Port: 9001:
 ```bash
-npm run dev
+node index.js
 ```
 
 5- Run client side on Port: 3000:
 ```bash
-npm srart
+npm start
 ```
 ## Features
 - User can login/register to the website
