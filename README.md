@@ -3,6 +3,10 @@ Social is a Fullstack web application.
 
 <h1>⚡ Demo</h1>
 
+
+https://github.com/nourhanKg/social-media-app/assets/36276898/73449976-61c3-4935-b462-dd67f306cea7
+
+
 ## Getting Started
 
 To get started with project, follow these steps:
